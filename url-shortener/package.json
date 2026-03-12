@@ -1,0 +1,10 @@
+{
+  "id": "url-shortener",
+  "name": "URL Shortener",
+  "description": "🔗 一键生成短链接，支持自定义后缀和访问统计",
+  "version": "1.0.0",
+  "author": {"name": "Nexa Claw", "url": "https://nexaclaw.cn/"},
+  "keywords": ["短链接", "URL", "链接生成"],
+  "categories": ["tool", "productivity"],
+  "license": "MIT"
+}
