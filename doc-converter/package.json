@@ -1,0 +1,10 @@
+{
+  "id": "doc-converter",
+  "name": "Doc Converter",
+  "description": "📄 一键转换各种文档格式，支持 PDF/Word/Markdown/Excel 等互转",
+  "version": "1.0.0",
+  "author": {"name": "Nexa Claw", "url": "https://nexaclaw.cn/"},
+  "keywords": ["文档转换", "PDF", "Word", "Excel"],
+  "categories": ["document", "productivity"],
+  "license": "MIT"
+}
