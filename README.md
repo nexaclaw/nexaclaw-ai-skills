@@ -4,7 +4,7 @@
 
 ![Nexa Claw](https://img.shields.io/badge/Nexa%20Claw-AI%20Skills-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Skills](https://img.shields.io/badge/skills-10+-orange)
+![Skills](https://img.shields.io/badge/skills-15+-orange)
 
 ---
 
@@ -18,37 +18,59 @@
 
 ---
 
-## 📦 技能列表 (10+ Skills)
+## 📦 技能列表 (15+ Skills)
 
-| # | 技能名称 | 描述 | 状态 |
-|---|---------|------|------|
-| 1 | 🔥 trending-tracker | 热点追踪器 - 全网热点实时追踪 | ✅ |
-| 2 | ✍️ ai-copywriter | 智能文案工厂 - 爆款标题/文案生成 | ✅ |
-| 3 | 🕷️ web-scraper | 智能网页爬虫 - 一键数据采集 | ✅ |
-| 4 | 🎬 auto-video-edit | 自动视频剪辑 - AI 智能剪辑 | ✅ |
-| 5 | 😂 meme-generator | 表情包生成器 - 热梗模板 | ✅ |
-| 6 | 📱 qr-code-maker | 二维码生成器 - 炫酷样式 | ✅ |
-| 7 | 📄 doc-converter | 文档格式转换器 | ✅ |
-| 8 | 🔗 url-shortener | 短链接生成器 | ✅ |
-| 9 | 🤖 chatbot-assistant | 智能客服助手 | ✅ |
-| 10 | 🖼️ image-enhancer | 图片增强器 - AI 修复增强 | ✅ |
+### 🤖 AI 智能工具
+
+| 技能 | 描述 |
+|------|------|
+| 🔥 trending-tracker | 热点追踪器 - 全网热点实时追踪 |
+| ✍️ ai-copywriter | 智能文案工厂 - 爆款标题/文案生成 |
+| 🤖 chatbot-assistant | 智能客服助手 |
+| 💻 code-generator | 代码生成器 |
+| 📊 data-analyzer | 数据分析助手 |
+| 🖼️ image-enhancer | 图片增强器 |
+
+### 🔧 效率工具
+
+| 技能 | 描述 |
+|------|------|
+| 🕷️ web-scraper | 智能网页爬虫 |
+| 📄 doc-converter | 文档格式转换器 |
+| 🔗 url-shortener | 短链接生成器 |
+| 🔐 password-generator | 密码生成器 |
+| 📦 json-formatter | JSON 格式化工具 |
+
+### 🎨 媒体处理
+
+| 技能 | 描述 |
+|------|------|
+| 🎬 auto-video-edit | 自动视频剪辑 |
+| 😂 meme-generator | 表情包生成器 |
+| 📱 qr-code-maker | 二维码生成器 |
+| 🎤 voice-assistant | 语音助手 |
 
 ---
 
 ## 🚀 快速开始
 
+```bash
+# 安装技能
+clawhub install nexaclaw/<skill-name>
 
+# 例如
+clawhub install nexaclaw/trending-tracker
+clawhub install nexaclaw/ai-copywriter
+```
 
 ---
 
-## 📊 技能分类
+## 📊 技能分类统计
 
-| 分类 | 技能数 |
-|------|--------|
-| 🤖 AI 工具 | 4 |
-| 📱 社交媒体 | 3 |
-| 🔧 效率工具 | 3 |
-| 🎨 媒体处理 | 3 |
+- 🤖 AI 智能工具: 6
+- 🔧 效率工具: 5
+- 🎨 媒体处理: 4
+- **总计: 15+ Skills**
 
 ---
 
@@ -64,7 +86,7 @@ MIT License - © 2026 Nexa Claw
 
 ---
 
-<div align=center>
+<div align="center">
 
 **Made with ❤️ by [Nexa Claw](https://nexaclaw.cn/)**
 
