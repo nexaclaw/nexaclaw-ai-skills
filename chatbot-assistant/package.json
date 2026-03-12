@@ -1,0 +1,10 @@
+{
+  "id": "chatbot-assistant",
+  "name": "Chatbot Assistant",
+  "description": "🤖 24小时自动回复智能客服，支持意图识别和知识库管理",
+  "version": "1.0.0",
+  "author": {"name": "Nexa Claw", "url": "https://nexaclaw.cn/"},
+  "keywords": ["客服", "聊天机器人", "自动回复"],
+  "categories": ["ai", "automation", "service"],
+  "license": "MIT"
+}
