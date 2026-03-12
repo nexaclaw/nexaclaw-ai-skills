@@ -1,0 +1,13 @@
+{
+  "id": "meme-generator",
+  "name": "Meme Generator",
+  "description": "😂 一键生成各种热门表情包，支持文字配图和热梗模板",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nexa Claw",
+    "url": "https://nexaclaw.cn/"
+  },
+  "keywords": ["表情包", "meme", "图片生成"],
+  "categories": ["media", "fun"],
+  "license": "MIT"
+}
