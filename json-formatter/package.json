@@ -1,0 +1,10 @@
+{
+  "id": "json-formatter",
+  "name": "JSON Formatter",
+  "description": "📦 JSON 数据处理助手，支持格式化、验证、转换",
+  "version": "1.0.0",
+  "author": {"name": "Nexa Claw", "url": "https://nexaclaw.cn/"},
+  "keywords": ["JSON", "格式化", "数据处理"],
+  "categories": ["developer", "tool"],
+  "license": "MIT"
+}
