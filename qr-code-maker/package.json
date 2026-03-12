@@ -1,0 +1,13 @@
+{
+  "id": "qr-code-maker",
+  "name": "QR Code Maker",
+  "description": "📱 炫酷二维码生成工具，支持链接、文字、创意样式",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nexa Claw",
+    "url": "https://nexaclaw.cn/"
+  },
+  "keywords": ["二维码", "QR码", "生成器"],
+  "categories": ["tool", "productivity"],
+  "license": "MIT"
+}
