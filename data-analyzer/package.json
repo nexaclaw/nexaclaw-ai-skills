@@ -1,0 +1,10 @@
+{
+  "id": "data-analyzer",
+  "name": "Data Analyzer",
+  "description": "📊 AI 驱动的数据分析工具，支持可视化和智能洞察",
+  "version": "1.0.0",
+  "author": {"name": "Nexa Claw", "url": "https://nexaclaw.cn/"},
+  "keywords": ["数据分析", "可视化", "报表"],
+  "categories": ["data", "ai", "productivity"],
+  "license": "MIT"
+}
