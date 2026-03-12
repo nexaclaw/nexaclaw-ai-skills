@@ -1,0 +1,31 @@
+{
+  "id": "ai-copywriter",
+  "name": "AI Copywriter",
+  "description": "✨ AI 驱动的爆款文案生成器，一键生成多平台爆款标题、文案、标签，提升内容创作效率",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nexa Claw",
+    "url": "https://nexaclaw.cn/",
+    "email": "nexaclaw@outlook.com"
+  },
+  "keywords": [
+    "文案",
+    "标题",
+    "爆款",
+    "小红书",
+    "抖音",
+    "微博",
+    "内容创作",
+    "AI写作"
+  ],
+  "categories": [
+    "content-creation",
+    "ai-tools",
+    "productivity"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nexaclaw/nexaclaw-ai-skills/tree/main/ai-copywriter"
+  }
+}
