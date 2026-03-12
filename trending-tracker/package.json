@@ -1,0 +1,41 @@
+{
+  "id": "trending-tracker",
+  "name": "Trending Tracker",
+  "description": "🔥 AI 驱动的全网热点追踪工具，实时追踪微博、知乎、B站、抖音等平台热点，助你抢占流量先机",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nexa Claw",
+    "url": "https://nexaclaw.cn/",
+    "email": "nexaclaw@outlook.com"
+  },
+  "keywords": [
+    "trending",
+    "hot",
+    "热点",
+    "微博",
+    "知乎",
+    "抖音",
+    "B站",
+    "流量",
+    "内容创作"
+  ],
+  "categories": [
+    "social-media",
+    "automation",
+    "productivity"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nexaclaw/nexaclaw-ai-skills/tree/main/trending-tracker"
+  },
+  "entry": {
+    "skill": "skill.yaml",
+    "script": "track.py"
+  },
+  "requirements": [
+    "python >= 3.8",
+    "requests",
+    "beautifulsoup4"
+  ]
+}
