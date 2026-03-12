@@ -1,0 +1,14 @@
+{
+  "id": "auto-video-edit",
+  "name": "Auto Video Edit",
+  "description": "🎬 AI 驱动的智能视频剪辑工具，一键生成爆款短视频",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nexa Claw",
+    "url": "https://nexaclaw.cn/",
+    "email": "nexaclaw@outlook.com"
+  },
+  "keywords": ["视频剪辑", "短视频", "AI剪辑", "自动化"],
+  "categories": ["media", "video", "automation"],
+  "license": "MIT"
+}
