@@ -1,0 +1,10 @@
+{
+  "id": "password-generator",
+  "name": "Password Generator",
+  "description": "🔐 安全密码生成工具，支持自定义规则和强度检测",
+  "version": "1.0.0",
+  "author": {"name": "Nexa Claw", "url": "https://nexaclaw.cn/"},
+  "keywords": ["密码", "安全", "生成器"],
+  "categories": ["security", "tool"],
+  "license": "MIT"
+}
