@@ -1,0 +1,24 @@
+{
+  "id": "web-scraper-pro",
+  "name": "Web Scraper Pro",
+  "description": "🕷️ AI 驱动的智能网页爬虫，一键提取结构化数据，支持定时任务和多格式导出",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nexa Claw",
+    "url": "https://nexaclaw.cn/",
+    "email": "nexaclaw@outlook.com"
+  },
+  "keywords": [
+    "爬虫",
+    "数据采集",
+    "网页抓取",
+    "数据分析",
+    "自动化"
+  ],
+  "categories": [
+    "automation",
+    "data",
+    "productivity"
+  ],
+  "license": "MIT"
+}
