@@ -1,0 +1,10 @@
+{
+  "id": "image-enhancer",
+  "name": "Image Enhancer",
+  "description": "🖼️ AI 图片增强和修复工具，支持放大、修复老照片、色彩增强",
+  "version": "1.0.0",
+  "author": {"name": "Nexa Claw", "url": "https://nexaclaw.cn/"},
+  "keywords": ["图片增强", "图片修复", "AI修图"],
+  "categories": ["media", "image", "ai"],
+  "license": "MIT"
+}
