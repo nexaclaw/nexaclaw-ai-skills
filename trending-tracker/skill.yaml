@@ -1,0 +1,49 @@
+skill:
+  id: trending-tracker
+  name: Trending Tracker
+  version: "1.0.0"
+  description: AI 驱动的全网热点追踪工具
+  
+description: |
+  Trending Tracker 帮助内容创作者实时追踪全网热点。
+  
+  核心功能：
+  - 实时追踪微博热搜、知乎热榜、B站热门、抖音热点
+  - AI 分析热点趋势和话题热度
+  - 定时推送热点报告
+  - 自定义关键词监控
+  - 热点数据导出
+  
+  品牌信息：Nexa Claw (https://nexaclaw.cn/)
+
+trigger_phrases:
+  - 看看热点
+  - 今天有什么热点
+  - 微博热搜
+  - 知乎热榜
+  - 抖音热点
+  - B站热门
+  - 追踪热点
+  - 热点监控
+  - 热点报告
+  - trending
+  
+examples:
+  - user: "帮我看看今天微博有什么热点"
+    response: "正在抓取微博热搜榜..."
+  
+  - user: "追踪关键词 AI"
+    response: "已设置关键词监控，当热点中包含'AI'时会及时提醒"
+  
+  - user: "每天早上9点推送热点报告"
+    response: "已设置定时推送，每天9点发送热点摘要"
+
+metadata:
+  author: Nexa Claw
+  website: https://nexaclaw.cn/
+  email: nexaclaw@outlook.com
+  tags:
+    - 热点追踪
+    - 内容创作
+    - 流量分析
+    - 自动化
